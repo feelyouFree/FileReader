@@ -1,15 +1,13 @@
-FileReader
+# FileReader
 
-Draft for FileReader with DI-Container
+Draft for FileReader with DI-Container, PSR-4 Autoloader
 
-## Systemvoraussetzungen
+
+## Enviroment
 
 * PHP 5.5+
 * Composer
 
-# FileReader
-
-Draft for FileReader with DI-Container, PSR-4 Autoloader
 
 ## Install
 
