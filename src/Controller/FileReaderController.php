@@ -8,14 +8,14 @@
 
 namespace FileReader\Controller;
 
-use DI\ContainerBuilder;
+
 
 class FileReaderController
 {
     public function fileReadAction( $filepath )
     {
 
-        $fileService = $container->get('FileReaderService');
+        //$fileService = $container->get('FileReaderService');
 
 
     }
