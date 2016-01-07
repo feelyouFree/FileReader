@@ -1,0 +1,22 @@
+{
+  "name": "FileReader",
+  "description": "ReadFiles",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Patrizia Wacht",
+      "email": "patrizia@wacht.de"
+    }
+  ],
+  "require": {
+    "php-di/php-di": "5.2.0",
+    "phpunit/phpunit": "3.7.38"
+  },
+  "autoload": {
+    "psr-4": {
+      "FileReader\\": "src/"
+    }
+  }
+
+}
